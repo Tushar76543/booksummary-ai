@@ -1,0 +1,5 @@
+# Ignore sensitive credentials
+.env
+token.pkl
+credentials_oauth.json
+*.pkl
